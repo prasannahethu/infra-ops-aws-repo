@@ -1,1 +1,0 @@
-# infra-ops-aws-repo
